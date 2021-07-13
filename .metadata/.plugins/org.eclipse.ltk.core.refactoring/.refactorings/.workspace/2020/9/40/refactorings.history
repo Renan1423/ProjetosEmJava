@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;PandaAdventure/res/lightmap.png&apos;" deleteContents="false" description="Delete resource &apos;PandaAdventure/res/lightmap.png&apos;" element1="/PandaAdventure/res/lightmap.png" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1601406067119"/>
+</session>

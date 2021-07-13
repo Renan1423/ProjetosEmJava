@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;PandaAdventure/res/Pokemon-Mystery-Dungeon-Blue-Rescue-Team-04-Personality-Test.wav&apos; to &apos;PersonalityTest.wav&apos;" description="Rename resource &apos;Pokemon-Mystery-Dungeon-Blue-Rescue-Team-04-Personality-Test.wav&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="res/Pokemon-Mystery-Dungeon-Blue-Rescue-Team-04-Personality-Test.wav" name="PersonalityTest.wav" stamp="1603132886439" updateReferences="true"/>
+</session>

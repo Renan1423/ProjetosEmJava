@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Game_03/src/com/gcstudios&apos; to &apos;bsstudios&apos;" description="Rename resource &apos;gcstudios&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/gcstudios" name="bsstudios" stamp="1608225953661" updateReferences="true"/>
+</session>

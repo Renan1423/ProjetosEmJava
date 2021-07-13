@@ -1,0 +1,39 @@
+Ideias jogo estilo Pokemon Mystery Dungeon/Crypt of the NecroDancer
+
+- 3 Personagens jogáveis: (são animais em extinção)
+	- Soldadinho-do-araripe: Knight
+		+ Utiliza lança como arma
+		+ Ataca a dois quadrados de distância
+		+ Alto HP e Defesa
+		+ Lento
+		+ Não possui ataques a distância
+	- Panda: Maga
+		+ Utiliza cajado como arma
+		+ Baixo dano de perto
+		+ Poderosas magias a distância (Talvez tenha um sistema de carregar magia)
+		+ Defesa baixa, velocidade mediana, ataque muito alto com magia
+	- Mico Leão Dourado: Thief
+		+ Utiliza facas como arma
+		+ Velocidade alta
+		+ Dano baixo (Tanto de longe quanto de perto)
+		+ Defesa mediana
+
+- Piso divididos em quadrados (estilo Pokémon Mystery Dungeon ou Crypt of the NecroDancer, que o personagem vai dando
+pulinhos para andar e anda em quadrados específicos)
+
+- Dungeons randômicas (?)
+
+- 3 fases, um boss em cada uma
+
+- Sistema de save
+
+- Possui uma pequena cidade com save point
+
+- Dois sistemas de bullet diferentes para atirar facas ou magias
+
+- Possui um minimapa nas fases
+
+- Uma das fases possui sistema de luz
+
+- Diálogos com NPCs da cidade e bosses
+

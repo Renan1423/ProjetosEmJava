@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Game_06/src/com/gcstudios/entities/TowerControllee.java&apos; to &apos;TowerController.java&apos;" description="Rename resource &apos;TowerControllee.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/gcstudios/entities/TowerControllee.java" name="TowerController.java" stamp="1611860271122" updateReferences="true"/>
+</session>
